@@ -1,5 +1,6 @@
-Postcore - Troca de Mensagens Instantâneas
-Grupo: seu nome e matrícula.
+# Postcore - Troca de Mensagens Instantâneas
+João Vitor Souza Soares 501358
+
 Descrição: A troca de mensagens instantâneas é amplamente realizada por pessoas e empresas, permitindo uma
 troca rápida de conteúdo, desde textos, imagens, áudios, animações e videos. Assim, uma vasta
 possibilidades de comunicação é possível, tanto para um único contato, como para um grupo de
@@ -25,6 +26,7 @@ Funcionalidades a serem implementadas:
 9. busca por mensagem;
 10. Grupo de usuários para troca de mensagens, onde um ou mais usuários serão administradores
 do grupo e poderão adicionar ou remover usuários do grupo.
+
 Adicionais:
 Deve-se elaborar os seguintes diagramas UML do sistema:
 • classe;
