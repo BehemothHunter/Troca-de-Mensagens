@@ -29,11 +29,18 @@ do grupo e poderão adicionar ou remover usuários do grupo.
 
 Adicionais:
 Deve-se elaborar os seguintes diagramas UML do sistema:
+
 • classe;
+
 • pacote;
+
 • caso de uso;
+
 • sequência;
+
 • máquina de estados ou transição de estados.
+
+
 Em seguida, implementar (ou reestruturar) o código do sistema utilizando os princípios SOLID da
 orientação a objetos.
 É permitida utilização de qualquer framework para manipulação do BD e emprego de qualquer SGBD.
